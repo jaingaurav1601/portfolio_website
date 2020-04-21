@@ -1,0 +1,134 @@
+header{
+    background-color: black;
+    background-image: url("https://cdn.pixabay.com/photo/2020/04/14/17/26/beach-5043569_1280.jpg");
+    background-size: 150%;
+    background-position: center;
+    height: 800px;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+nav{
+    background-position: center;
+    background-color: black;
+    height: 100px;
+    margin-top: -120px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+
+}
+nav li{
+    color: black;
+    text-decoration: none;
+    margin-top: 40px;
+}
+.logo{
+    background-image: url()
+    background-size: 300px;
+    background-repeat: no-repeat;
+    ;
+    display: inline-block;
+    height: 200px;
+    position: relative;
+    top: 90px;
+    width: 300px;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    
+
+}
+nav li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.features{
+    background: wheat;
+    padding: 20px;
+    margin-top: 100px;
+}
+section h1{
+    margin-bottom: 30px;
+
+}
+footer{
+    text-align: center;
+    background: black;
+    color: white;
+    font-size: 30px;
+
+}
+
+.p {
+    margin-top: 115px;
+    margin-bottom: 1rem;
+}
+.intro{
+    text-transform: none;
+    -moz-text-decoration-line: inherit; 
+    text-decoration-style: wavy;
+    text-align: left;
+}
+.About_me{
+    text-align: center;
+    text-size-adjust: 30px;
+
+
+}
+.Aboutme
+{
+    
+    background-color: black;
+    background-image: url("https://cdn.pixabay.com/photo/2020/03/10/16/47/moon-4919501_1280.jpg");
+    background-size: 10%;
+    background-position: center;
+    height: 800px;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    color: red;
+
+}
+.contact
+{
+    background-color:wheat;
+   
+    background-size: 100%;
+    background-position: center;
+    height: 400px;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    color: red;
+    
+}
+.contact li
+{
+    display: inline-block;
+}
+.academics {
+    width: 1600px;
+    height: 200px;
+    background-color: red;
+    animation-name: acad;
+    animation-duration: 4s;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    animation-iteration-count: infinite;
+    
+  }
+  
+  @keyframes acad {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
+  .Achievements
+  {
+      
+  }
